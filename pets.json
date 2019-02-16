@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "Kimberly-Clark Coporation",
+    "picture": "images/kclark.png",
+    "age": 25,
+    "breed": 320,
+    "location": "Neenah, Wisconsin",
+    "credits": 5,
+    "reqqq": 4
+  },
+  {
+    "id": 1,
+    "name": "International Paper",
+    "picture": "images/ipaper.png",
+    "age": 40,
+    "breed": 300,
+    "location": "Corinth, New York",
+    "credits": 5,
+    "reqqq": 6
+  }
+
+]
